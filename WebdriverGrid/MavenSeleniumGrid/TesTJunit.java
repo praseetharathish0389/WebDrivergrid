@@ -17,7 +17,7 @@ public class TesTJunit {
 				// TODO Auto-generated method stub
 				
 				System.out.println("New line has added");
-				System.out.println("New line has added");
+				System.out.println("code updated from  git repository.It should get reflected in eclipse project ");
 				
 			}
 
