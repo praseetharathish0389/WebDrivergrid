@@ -55,6 +55,12 @@ public class loginpage {
 		  driver.findElement(By.id("password")).sendKeys("senthil");
 		  driver.findElement(By.id("signin")).click();		  
 		  logger.info("Doctor sign In successfully");
+		  //driver.findElements(By.id("Testing and finding the value"));
+		  
+		  
+		  
+		  
+		  
 		  
 }
 	  
