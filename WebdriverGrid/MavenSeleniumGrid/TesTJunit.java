@@ -19,12 +19,6 @@ public class TesTJunit {
 				System.out.println("New line has added");
 				System.out.println("code updated from  git repository.It should get reflected in eclipse project ");
 				
-				
-			for(int i=0; i<=5;i++)
-			{
-				i=i+1;
-				System.out.println("the value is "+ i);
-			}
 			}
 
 		
